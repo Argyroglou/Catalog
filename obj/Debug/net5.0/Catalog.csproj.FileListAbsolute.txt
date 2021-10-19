@@ -22,7 +22,6 @@ C:\workspace\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Ma
 C:\workspace\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.xml
 C:\workspace\Catalog\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
 C:\workspace\Catalog\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
-C:\workspace\Catalog\obj\Debug\net5.0\Catalog.csproj.CopyComplete
 C:\workspace\Catalog\obj\Debug\net5.0\Catalog.dll
 C:\workspace\Catalog\obj\Debug\net5.0\ref\Catalog.dll
 C:\workspace\Catalog\obj\Debug\net5.0\Catalog.pdb
